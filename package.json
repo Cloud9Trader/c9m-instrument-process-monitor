@@ -1,0 +1,19 @@
+{
+  "name": "c9m-instrument-process-monitor",
+  "version": "0.0.0",
+  "description": "Cloud9Metrics instrument for process monitoring",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cloud9Trader/c9m-instrument-process-monitor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cloud9Trader/c9m-instrument-process-monitor/issues"
+  },
+  "homepage": "https://github.com/Cloud9Trader/c9m-instrument-process-monitor#readme",
+  "dependencies": {}
+}
