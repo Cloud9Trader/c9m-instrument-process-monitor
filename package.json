@@ -1,6 +1,6 @@
 {
   "name": "c9m-instrument-process-monitor",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Cloud9Metrics instrument for process monitoring",
   "main": "index.js",
   "scripts": {},
@@ -15,6 +15,6 @@
   },
   "homepage": "https://github.com/Cloud9Trader/c9m-instrument-process-monitor#readme",
   "dependencies": {
-    "c9m-sensor-process-memory": "0.0.0"
+    "c9m-sensor-process-memory": "^0.1.0"
   }
 }
